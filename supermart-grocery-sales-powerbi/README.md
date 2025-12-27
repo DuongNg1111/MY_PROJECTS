@@ -13,7 +13,9 @@ This project was developed during a professional workshop to practice end-to-end
 ## Tech Stack
 
 **Data Cleaning**: Standardizing city and category names via Power Query.
+
 **DAX Modeling**: Creating measures for Total Revenue, Total Profit, and Year-over-Year growth.
+
 **Visual Storytelling**: Using Map visuals, Area charts, and Treemaps to represent regional and temporal data.
 
 
