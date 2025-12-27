@@ -26,7 +26,7 @@ This project was developed during a professional workshop to practice end-to-end
 
 ## Data
 
-- Raw data file is stored in **[Supermart Grocery Sales - Raw data (PDF)](./data/Supermarrt Grocery Sales.pdf)** 
+- Raw data file is stored in **[Supermart Grocery Sales - Raw data (PDF)](./data/Supermart Grocery Sales.pdf)** 
 
 ## Visual
 
