@@ -29,4 +29,4 @@ This project was developed during a professional workshop to practice end-to-end
 - Raw data file is stored in the `data/` folder.
 ## Visual
 
-Full dashboard visuals and analysis are exported to a PDF format for easy viewing: 👉 **[View Dashboard Report (PDF)](./screenshots/dashboard-overview.pdf)** 
+Full dashboard visuals and analysis are exported to a PDF format for easy viewing: 👉 **[View Dashboard Report (PDF)](./screenshot/sales-performance.pdf)** 
