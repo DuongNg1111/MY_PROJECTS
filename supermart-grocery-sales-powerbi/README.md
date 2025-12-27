@@ -12,9 +12,9 @@ This project was developed during a professional workshop to practice end-to-end
 - Consumer Behavior: The Bakery category maintained high order volume despite a 14.72% average discount.
 ## Tech Stack
 
-**Data Cleaning: Standardizing city and category names via Power Query.
-**DAX Modeling: Creating measures for Total Revenue, Total Profit, and Year-over-Year growth.
-**Visual Storytelling: Using Map visuals, Area charts, and Treemaps to represent regional and temporal data.
+**Data Cleaning**: Standardizing city and category names via Power Query.
+**DAX Modeling**: Creating measures for Total Revenue, Total Profit, and Year-over-Year growth.
+**Visual Storytelling**: Using Map visuals, Area charts, and Treemaps to represent regional and temporal data.
 
 
 ## Tools
@@ -26,7 +26,8 @@ This project was developed during a professional workshop to practice end-to-end
 
 ## Data
 
-- Raw data file is stored in the `data/` folder.
+- Raw data file is stored in **[Supermart Grocery Sales - Raw data (PDF)](./data/Supermarrt Grocery Sales.pdf)** 
+
 ## Visual
 
 Full dashboard visuals and analysis are exported to a PDF format for easy viewing: 👉 **[View Dashboard Report (PDF)](./screenshot/sales-performance.pdf)** 
