@@ -26,7 +26,7 @@ This project was developed during a professional workshop to practice end-to-end
 
 ## Data
 
-- Raw data file is stored in ./data/ folder.
+- Raw data file is stored in `data/` folder.
 
 ## Visual
 
